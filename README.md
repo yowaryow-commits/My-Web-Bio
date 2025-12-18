@@ -2,91 +2,78 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  <title>Biodata Aryow</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Website Biografi Aryow</title>
   <link rel="stylesheet" href="STYLE.CSS">
 </head>
 <body>
 
 <header class="hero">
-  <h1>BIODATA RADEN ARYO WIBISONO</h1>
-  <p>Mahasiswa Universitas Pamulang</p>
+  <h1>WEBSITE BIOGRAFI</h1>
+  <p>Musik | Olahraga | Politik</p>
 </header>
 
 <nav class="navbar">
   <ul>
-    <li><a href="dashboard project.html">Dashboard</a></li>
+    <li><a href="#">Home</a></li>
+    <li><a href="Biodata Aryow.html">Author</a></li>
     <li><a href="Gallery Aryow.html">Gallery</a></li>
   </ul>
 </nav>
 
+<section class="intro">
+  <br>
+   <div class="card">
+  <center><img src="world.jpeg" alt="Dunia"></center>
+  <p>
+    Website ini berisi tentang hal-hal yang saya sukai, seperti musik, olahraga,
+    politik, dan sejarah. Tujuan web ini adalah sebagai media latihan coding HTML & CSS
+    serta berbagi informasi tentang tokoh inspiratif dunia.
+  </p>
+  </div>
+</section>
+
 <section class="content">
 
-  <div class="card">
-
-    <h2>Profil Singkat</h2>
-
+  <div class="card2">
+    <br>
+    <img src="music1.jpeg" alt="Musik">
+    <h2>Tokoh Musik</h2>
     <p>
-      Nama saya <b>Raden Aryo Wibisono</b>, mahasiswa Universitas Pamulang yang lahir
-      pada <b>31 Juli 2005</b> di kota Tangerang, Banten.
-    </p>
-
-    <p>
-      Saya memiliki minat besar di bidang seni, olahraga, dan pengetahuan sosial.
-      Dikenal sebagai pribadi aktif dan kreatif yang senang mengeksplorasi hal baru.
-    </p>
-
-    <p>
-      Hobi saya adalah bermain alat musik dan menggambar sebagai media ekspresi diri.
-      Selain itu, saya juga tertarik pada isu politik, geografi, dan dinamika global.
-    </p>
-
-    <a href="dashboard project.html" class="btn">Kembali ke Dashboard</a>
-
+      Dunia musik penuh ekspresi dan inspirasi. Biografi musisi memperlihatkan perjuangan hidup,
+      karya besar, dan pengaruhnya bagi dunia.
+    </p> <br>
+    <a href="Biografi Tokoh Musik.html" class="btn">Buka Profil</a>
   </div>
-   <div class="card">
 
-    <h2>Pendidikan</h2>
-
+  <div class="card2">
+    <br>
+    <img src="olahraga.jpeg " alt="Olahraga">
+    <h2>Tokoh Olahraga</h2>
     <p>
-     Saya memiliki jenjang pendidikan dari SD hingga Kuliah S1, diawali dengan bersekolah di<br>
-     SDN Rahayu.
-    </p>
-
-    <p>
-      SMP Anbor, dan masuk ke SMK Letris 2 Indonesia, sebagai siswa jurusan<br>
-      teknik jaringan komputer.
-    </p>
-
-    <p>
-      Hobi saya adalah bermain alat musik dan menggambar sebagai media ekspresi diri.
-      Selain itu, saya juga tertarik pada isu politik, geografi, dan dinamika global.
-    </p>
-
-    <a href="dashboard project.html" class="btn">Kembali ke Dashboard</a>
-
+      Atlet hebat lahir dari disiplin dan kerja keras. Kisah mereka mengajarkan arti
+      perjuangan dan sportivitas.
+    </p> <br>
+    <a href="Biografi Tokoh Olahraga.html" class="btn">Buka Profil</a>
   </div>
-   <div class="card">
 
-    <h2>Hobi</h2>
-
+  <div class="card2">
+    <br>
+    <img src="politik.jpeg" alt="Politik">
+    <h2>Tokoh Politik</h2>
     <p>
-      Seorang yang memiliki hobi sepak bola, musik, dan seni.
-       Ketertarikannya pada sepak bola mencerminkan semangat sportivitas, kerja sama tim, dan kedisiplinan, baik sebagai pemain maupun penikmat pertandingan.<br>
-    </p>
-       <p>
-       Sementara itu, minat pada seni—baik seni visual, pertunjukan, maupun desain—menggambarkan jiwa kreatif dan apresiasi tinggi terhadap keindahan serta nilai estetika, sehingga ketiga hobi tersebut saling melengkapi dalam membentuk pribadi yang aktif, kreatif, dan terbuka terhadap berbagai bentuk ekspresi.<br>
-    </p>
-
-    <a href="dashboard project.html" class="btn">Kembali ke Dashboard</a>
-
+      Tokoh politik membentuk bangsa. Biografi mereka memberikan wawasan tentang
+      kepemimpinan dan perjuangan.
+    </p> <br>
+    <a href="Biografi Tokoh Politik.html" class="btn">Buka Profil</a>
   </div>
 
 </section>
 
 <footer>
-  <p>&copy; 2025 Aryow Website</p>
+  <p>&copy; 2025 Aryow Project | Website Biografi</p>
 </footer>
 
 </body>
 </html>
+ 
